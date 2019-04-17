@@ -2,6 +2,10 @@ $(".Naruto").hide();
 $(".Sasuke").hide();
 $(".Kakashi").hide();
 $(".Boruto").hide();
+$(".Uzimaki").hide();
+$(".Uchiha").hide();
+$(".Hatake").hide();
+$(".Namikaze").hide();
 
 $("button").click(function() {
     var TV = $(".TV").val();
