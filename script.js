@@ -21,6 +21,6 @@ $("button").click(function() {
     } else if (TV < 3 && Character === "Boruto") {
         $(".Boruto").fadeIn();
     } else {
-        alert("You typed something that was not valid. Please try again");
+        alert("You typed something that was not valid. Maybe a mistype?");
     }
 });
